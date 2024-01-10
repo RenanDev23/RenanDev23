@@ -4,7 +4,7 @@
 
 <h3 align="center">Student and aspiring full-stack development developer from Brazil</h3>
 
-<img align="right" alt="Coding" width="400" src="https://miro.medium.com/max/680/0*7Q3yvSIv_t0ioJ-Z.gif"/>
+<img align="center" alt="Coding" width="400" src="https://miro.medium.com/max/680/0*7Q3yvSIv_t0ioJ-Z.gif"/>
 
 
 
