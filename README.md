@@ -1,4 +1,5 @@
 ### Hi there 👋
+![](https://komarev.com/ghpvc/?username=RenanDev23)
 
 <!--
 **RenanDev23/RenanDev23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
