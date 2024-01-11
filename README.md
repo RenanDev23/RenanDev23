@@ -4,7 +4,7 @@
 
 <h3 align="center">Student and aspiring full-stack development developer from Brazil</h3>
 
-<img align="center" alt="Coding" width="400" src="https://miro.medium.com/max/680/0*7Q3yvSIv_t0ioJ-Z.gif"/>
+![ezgif com-animated-gif-maker](https://github.com/RenanDev23/RenanDev23/assets/151619273/da7551aa-3735-4d0e-8d83-54173d6f8977)
 
 
 
