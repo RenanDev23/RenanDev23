@@ -1,6 +1,10 @@
 <h1 align="center">Hi 👋, I'm Renan Justino</h1>
-<h5 align="left">Welcome! I am developing and improving my skills. I'm a learner and I want to make a better world by piggybacking on this growth of technology. I have a thirst for knowledge and learning is never too much. I love learning</h5>
+<h5 align="left">Welcome! I am developer and improving my skills. I'm a learner and I want to make a better world by piggybacking on this growth of technology. I have a thirst for knowledge and learning is never too much. I love learning</h5>
 <p align="left">
+
+💻 **Growing Digital Adventurer! 🚀**
+
+Navigating the universe of code with a mix of curiosity and coffee. 💡💻 Exploring bug territory with a smile, I'm an ever-evolving programming enthusiast. Passionate about machine languages and strong coffee, I'm building my code castle one byte at a time. Connecting with other devs, because the journey is more epic when shared. Welcome to my tech saga! 🛠️ #CodandoComEstilo #DesbravadorDigital
 
 <h3 align="center">Student and aspiring full-stack development developer from Brazil</h3>
 
